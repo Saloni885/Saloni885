@@ -49,8 +49,8 @@ Developing a system to:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](#) *(Add your LinkedIn URL here)*  
-- 📧 yourname@example.com
+- 
+- salonisr6@gmail.com
 
 ---
 
