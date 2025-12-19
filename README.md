@@ -34,7 +34,7 @@ Developing a system to:
 - Manage product stocks, sales, and restocking alerts  
 - Perform CRUD operations  
 - Generate basic analytics reports  
-**Tech Stack (Planned):** Nodejs + MySQL + Power BI
+**Tech Stack (Planned):** Python+ MySQL + Power BI
 
 ---
 
