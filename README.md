@@ -12,7 +12,7 @@ I'm a passionate and curious engineering student with a strong foundation in pro
 
 ## 🔧 Skills & Tools
 
-- **Languages:** C, C++, Python  
+- **Languages:** C, C++, Python,HTML,CSS  
 - **Core CS Concepts:** Data Structures & Algorithms  
 - **Database:** MySQL  
 - **Visualization & BI:** Power BI  
