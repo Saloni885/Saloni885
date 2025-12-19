@@ -29,7 +29,7 @@ A console-based project that allows users to:
 - Store data using file handling  
 **Tech Used:** C++ / Python (Update with your tech stack)
 
-### 🚧 Inventory Management System *(In Progress)*  
+### 🚧 Inventory Management System * 
 Developing a system to:
 - Manage product stocks, sales, and restocking alerts  
 - Perform CRUD operations  
