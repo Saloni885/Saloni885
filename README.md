@@ -40,7 +40,7 @@ Developing a system to:
 
 ## 📚 Currently Working On
 
-- Enhancing problem-solving skills through DSA
+- Enhancing problem-solving skills through DSA by solving problems on leetcode
 - Building Python-based utilities and automation tools
 - Practicing database management with MySQL
 - Exploring AI tools to improve productivity
@@ -51,6 +51,7 @@ Developing a system to:
 
 - https://www.linkedin.com/in/saloni-sharma-0100a5324
 - salonisr6@gmail.com
+  
 
 ---
 
