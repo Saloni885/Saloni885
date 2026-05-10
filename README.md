@@ -42,6 +42,7 @@ Developing a system to:
   - Stores users, conversations, and chat history in a database
   - Supports crisis detection with safe response handling
   - Can be extended with  multilingual support
+    
   **Tech Stack (Planned): React + Flask + Ollama + MySQL
 
 ---
