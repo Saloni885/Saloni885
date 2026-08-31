@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm [Saloni Sharma]
 
-🎓 2nd Year B.Tech Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
+🎓 3rd Year B.Tech Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
 
 ---
 
